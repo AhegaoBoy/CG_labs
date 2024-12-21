@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hjg\\Desktop\\Laba6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{338EEAC3-08F8-4911-9167-C6B626D1F394}|Laba6\\Laba6.csproj|c:\\users\\hjg\\desktop\\laba6\\laba6\\window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338EEAC3-08F8-4911-9167-C6B626D1F394}|Laba6\\Laba6.csproj|solutionrelative:laba6\\window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hjg\\Desktop\\Laba6\\Shaders\\shader.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shaders\\shader.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hjg\\Desktop\\Laba6\\Shaders\\shader.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shaders\\shader.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hjg\\Desktop\\Laba6\\Shaders\\lighting.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shaders\\lighting.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338EEAC3-08F8-4911-9167-C6B626D1F394}|Laba6\\Laba6.csproj|c:\\users\\hjg\\desktop\\laba6\\laba6\\shader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338EEAC3-08F8-4911-9167-C6B626D1F394}|Laba6\\Laba6.csproj|solutionrelative:laba6\\shader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338EEAC3-08F8-4911-9167-C6B626D1F394}|Laba6\\Laba6.csproj|c:\\users\\hjg\\desktop\\laba6\\laba6\\texture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338EEAC3-08F8-4911-9167-C6B626D1F394}|Laba6\\Laba6.csproj|solutionrelative:laba6\\texture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338EEAC3-08F8-4911-9167-C6B626D1F394}|Laba6\\Laba6.csproj|c:\\users\\hjg\\desktop\\laba6\\laba6\\imguicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338EEAC3-08F8-4911-9167-C6B626D1F394}|Laba6\\Laba6.csproj|solutionrelative:laba6\\imguicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338EEAC3-08F8-4911-9167-C6B626D1F394}|Laba6\\Laba6.csproj|c:\\users\\hjg\\desktop\\laba6\\laba6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338EEAC3-08F8-4911-9167-C6B626D1F394}|Laba6\\Laba6.csproj|solutionrelative:laba6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338EEAC3-08F8-4911-9167-C6B626D1F394}|Laba6\\Laba6.csproj|c:\\users\\hjg\\desktop\\laba6\\laba6\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338EEAC3-08F8-4911-9167-C6B626D1F394}|Laba6\\Laba6.csproj|solutionrelative:laba6\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ImGuiController.cs",
+              "DocumentMoniker": "C:\\Users\\Hjg\\Desktop\\Laba6\\Laba6\\ImGuiController.cs",
+              "RelativeDocumentMoniker": "Laba6\\ImGuiController.cs",
+              "ToolTip": "C:\\Users\\Hjg\\Desktop\\Laba6\\Laba6\\ImGuiController.cs",
+              "RelativeToolTip": "Laba6\\ImGuiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:46:26.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hjg\\Desktop\\Laba6\\Laba6\\Program.cs",
+              "RelativeDocumentMoniker": "Laba6\\Program.cs",
+              "ToolTip": "C:\\Users\\Hjg\\Desktop\\Laba6\\Laba6\\Program.cs",
+              "RelativeToolTip": "Laba6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:18:51.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Window.cs",
+              "DocumentMoniker": "C:\\Users\\Hjg\\Desktop\\Laba6\\Laba6\\Window.cs",
+              "RelativeDocumentMoniker": "Laba6\\Window.cs",
+              "ToolTip": "C:\\Users\\Hjg\\Desktop\\Laba6\\Laba6\\Window.cs",
+              "RelativeToolTip": "Laba6\\Window.cs",
+              "ViewState": "AgIAAOwAAAAAAAAAAAAwwHcBAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:18:47.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Texture.cs",
+              "DocumentMoniker": "C:\\Users\\Hjg\\Desktop\\Laba6\\Laba6\\Texture.cs",
+              "RelativeDocumentMoniker": "Laba6\\Texture.cs",
+              "ToolTip": "C:\\Users\\Hjg\\Desktop\\Laba6\\Laba6\\Texture.cs",
+              "RelativeToolTip": "Laba6\\Texture.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:18:50.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Camera.cs",
+              "DocumentMoniker": "C:\\Users\\Hjg\\Desktop\\Laba6\\Laba6\\Camera.cs",
+              "RelativeDocumentMoniker": "Laba6\\Camera.cs",
+              "ToolTip": "C:\\Users\\Hjg\\Desktop\\Laba6\\Laba6\\Camera.cs",
+              "RelativeToolTip": "Laba6\\Camera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:18:52.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shader.cs",
+              "DocumentMoniker": "C:\\Users\\Hjg\\Desktop\\Laba6\\Laba6\\Shader.cs",
+              "RelativeDocumentMoniker": "Laba6\\Shader.cs",
+              "ToolTip": "C:\\Users\\Hjg\\Desktop\\Laba6\\Laba6\\Shader.cs",
+              "RelativeToolTip": "Laba6\\Shader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:18:50.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "lighting.frag",
+              "DocumentMoniker": "C:\\Users\\Hjg\\Desktop\\Laba6\\Shaders\\lighting.frag",
+              "RelativeDocumentMoniker": "Shaders\\lighting.frag",
+              "ToolTip": "C:\\Users\\Hjg\\Desktop\\Laba6\\Shaders\\lighting.frag",
+              "RelativeToolTip": "Shaders\\lighting.frag",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-20T14:19:23.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "shader.frag",
+              "DocumentMoniker": "C:\\Users\\Hjg\\Desktop\\Laba6\\Shaders\\shader.frag",
+              "RelativeDocumentMoniker": "Shaders\\shader.frag",
+              "ToolTip": "C:\\Users\\Hjg\\Desktop\\Laba6\\Shaders\\shader.frag",
+              "RelativeToolTip": "Shaders\\shader.frag",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-20T14:19:22.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "shader.vert",
+              "DocumentMoniker": "C:\\Users\\Hjg\\Desktop\\Laba6\\Shaders\\shader.vert",
+              "RelativeDocumentMoniker": "Shaders\\shader.vert",
+              "ToolTip": "C:\\Users\\Hjg\\Desktop\\Laba6\\Shaders\\shader.vert",
+              "RelativeToolTip": "Shaders\\shader.vert",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-20T14:19:22.034Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

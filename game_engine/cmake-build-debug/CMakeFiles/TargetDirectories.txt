@@ -1,8 +1,0 @@
-/mnt/a/mai_stuff/Computer_grafics/game_engine/cmake-build-debug/CMakeFiles/game_engine.dir
-/mnt/a/mai_stuff/Computer_grafics/game_engine/cmake-build-debug/CMakeFiles/edit_cache.dir
-/mnt/a/mai_stuff/Computer_grafics/game_engine/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/mnt/a/mai_stuff/Computer_grafics/game_engine/cmake-build-debug/CMakeFiles/game_engine_autogen.dir
-/mnt/a/mai_stuff/Computer_grafics/game_engine/cmake-build-debug/_deps/glm-build/CMakeFiles/edit_cache.dir
-/mnt/a/mai_stuff/Computer_grafics/game_engine/cmake-build-debug/_deps/glm-build/CMakeFiles/rebuild_cache.dir
-/mnt/a/mai_stuff/Computer_grafics/game_engine/cmake-build-debug/_deps/glm-build/glm/CMakeFiles/edit_cache.dir
-/mnt/a/mai_stuff/Computer_grafics/game_engine/cmake-build-debug/_deps/glm-build/glm/CMakeFiles/rebuild_cache.dir
