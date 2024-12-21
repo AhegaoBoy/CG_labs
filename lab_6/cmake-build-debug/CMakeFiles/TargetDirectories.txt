@@ -1,0 +1,8 @@
+/mnt/a/mai_stuff/Computer_grafics/lab_6/cmake-build-debug/CMakeFiles/lab_6.dir
+/mnt/a/mai_stuff/Computer_grafics/lab_6/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/a/mai_stuff/Computer_grafics/lab_6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/a/mai_stuff/Computer_grafics/lab_6/cmake-build-debug/CMakeFiles/lab_6_autogen.dir
+/mnt/a/mai_stuff/Computer_grafics/lab_6/cmake-build-debug/_deps/glm-build/CMakeFiles/edit_cache.dir
+/mnt/a/mai_stuff/Computer_grafics/lab_6/cmake-build-debug/_deps/glm-build/CMakeFiles/rebuild_cache.dir
+/mnt/a/mai_stuff/Computer_grafics/lab_6/cmake-build-debug/_deps/glm-build/glm/CMakeFiles/edit_cache.dir
+/mnt/a/mai_stuff/Computer_grafics/lab_6/cmake-build-debug/_deps/glm-build/glm/CMakeFiles/rebuild_cache.dir

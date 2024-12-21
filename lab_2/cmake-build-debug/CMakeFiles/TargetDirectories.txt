@@ -1,0 +1,3 @@
+/mnt/a/mai_stuff/Computer_grafics/lab_2/cmake-build-debug/CMakeFiles/lab_2.dir
+/mnt/a/mai_stuff/Computer_grafics/lab_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/a/mai_stuff/Computer_grafics/lab_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

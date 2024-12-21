@@ -1,0 +1,5 @@
+C:\WINDOWS\system32\wsl.exe --distribution Debian --exec /bin/bash -c "export CMAKE_COLOR_DIAGNOSTICS=ON && export CLION_IDE=TRUE && export JETBRAINS_IDE=TRUE && cd /mnt/a/mai_stuff/Computer_grafics/lab_5/cmake-build-debug && /usr/local/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G 'CodeBlocks - Unix Makefiles' -S /mnt/a/mai_stuff/Computer_grafics/lab_5 -B /mnt/a/mai_stuff/Computer_grafics/lab_5/cmake-build-debug"
+-- Found SFML 2.5.1 in /usr/lib/x86_64-linux-gnu/cmake/SFML
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/a/mai_stuff/Computer_grafics/lab_5/cmake-build-debug
